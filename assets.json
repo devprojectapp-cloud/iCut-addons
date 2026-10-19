@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "reactions",
-      "label": "Reactions"
+      "id": "social",
+      "label": "Social Media"
     },
     {
       "id": "lower-thirds",
@@ -11,6 +11,10 @@
     {
       "id": "titles",
       "label": "Titles & Intros"
+    },
+    {
+      "id": "reactions",
+      "label": "Reactions"
     },
     {
       "id": "stickers",
@@ -23,77 +27,160 @@
   ],
   "assets": [
     {
-      "id": "confetti-celebration",
-      "name": "Confetti Burst",
-      "description": "Celebration burst effect with colorful particles",
-      "category": "reactions",
+      "id": "yt-subscribe-glow",
+      "name": "YouTube Subscribe & Bell",
+      "description": "Animated subscribe pill with bell shake notification",
+      "category": "social",
       "kind": "lottie",
       "tags": [
-        "party",
-        "celebration",
-        "confetti",
-        "burst",
-        "fun"
+        "youtube",
+        "subscribe",
+        "bell",
+        "social",
+        "glow"
       ],
-      "duration": 2.0,
-      "preview_width": 500,
-      "preview_height": 500,
+      "duration": 2.5,
+      "preview_width": 640,
+      "preview_height": 360,
       "author": "iCut Studio",
       "license": "CC0-1.0",
       "playback": "intro-hold-outro",
       "files": [
         {
           "role": "main",
-          "name": "confetti.json",
-          "size": 105,
-          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
-          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/confetti.json"
+          "name": "yt-subscribe-glow.json",
+          "size": 694,
+          "sha256": "ad73ac88e563b218197cc75e5cc77efd3e285f2d47454a34a6ccd658d982a9b3",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/yt-subscribe-glow.json"
         }
       ]
     },
     {
-      "id": "neon-sparkle",
-      "name": "Neon Sparkle",
-      "description": "Vibrant glowing sparkles for video highlights",
-      "category": "decorations",
+      "id": "yt-like-share",
+      "name": "YouTube Like & Share Pill",
+      "description": "Thumbs up and share button animation",
+      "category": "social",
       "kind": "lottie",
       "tags": [
-        "sparkle",
-        "star",
-        "shine",
-        "glow",
-        "magic",
-        "neon"
+        "youtube",
+        "like",
+        "share",
+        "thumbs",
+        "button"
       ],
-      "duration": 1.5,
-      "preview_width": 500,
-      "preview_height": 500,
+      "duration": 2.0,
+      "preview_width": 640,
+      "preview_height": 360,
       "author": "iCut Studio",
       "license": "CC0-1.0",
-      "playback": "loop",
+      "playback": "intro-hold-outro",
       "files": [
         {
           "role": "main",
-          "name": "sparkle.json",
-          "size": 105,
-          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
-          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/sparkle.json"
+          "name": "yt-like-share.json",
+          "size": 695,
+          "sha256": "09bb8f453cc3a24691394ce2b1aa95b000e34127bc3411fbae786a8ee4f0e9c9",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/yt-like-share.json"
         }
       ]
     },
     {
-      "id": "minimal-lower-third",
-      "name": "Clean Modern Title",
-      "description": "Minimalist lower third banner with animated text placeholder",
-      "category": "lower-thirds",
+      "id": "ig-follow-card",
+      "name": "Instagram Follow & Like",
+      "description": "Modern gradient Instagram follow banner with heart pop",
+      "category": "social",
       "kind": "lottie",
       "tags": [
-        "lower third",
-        "name",
-        "title",
-        "minimal",
-        "modern",
-        "news"
+        "instagram",
+        "follow",
+        "heart",
+        "social"
+      ],
+      "duration": 2.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "ig-follow-card.json",
+          "size": 692,
+          "sha256": "6d5b53e70a5c047d16e8ca9f34dbbeab6736cecba58985a4d726868b4321b276",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/ig-follow-card.json"
+        }
+      ]
+    },
+    {
+      "id": "tiktok-double-tap",
+      "name": "TikTok Double Tap Heart",
+      "description": "Neon double-tap pulsing heart overlay",
+      "category": "social",
+      "kind": "lottie",
+      "tags": [
+        "tiktok",
+        "heart",
+        "double tap",
+        "like",
+        "neon"
+      ],
+      "duration": 2.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "tiktok-double-tap.json",
+          "size": 690,
+          "sha256": "ecf10a9fd64576c6074b4eb5797bd0d7ccd6c061e70a0a196eada1b8cf695f7d",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/tiktok-double-tap.json"
+        }
+      ]
+    },
+    {
+      "id": "x-repost-pill",
+      "name": "X / Twitter Repost Badge",
+      "description": "Animated repost and quote bubble badge",
+      "category": "social",
+      "kind": "lottie",
+      "tags": [
+        "twitter",
+        "x",
+        "repost",
+        "social"
+      ],
+      "duration": 1.8,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "x-repost-pill.json",
+          "size": 692,
+          "sha256": "3ab4c0a885139047950cb269798ff3c2e69415dd27f8da6c2ad24ee354ba3cc3",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/x-repost-pill.json"
+        }
+      ]
+    },
+    {
+      "id": "twitch-follow-alert",
+      "name": "Twitch Follower Alert Box",
+      "description": "Purple neon alert box for live streams and gaming clips",
+      "category": "social",
+      "kind": "lottie",
+      "tags": [
+        "twitch",
+        "stream",
+        "gaming",
+        "alert",
+        "follow"
       ],
       "duration": 3.0,
       "preview_width": 640,
@@ -104,56 +191,82 @@
       "files": [
         {
           "role": "main",
-          "name": "lower-third.json",
-          "size": 105,
-          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
-          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/lower-third.json"
+          "name": "twitch-follow-alert.json",
+          "size": 695,
+          "sha256": "e3cd729b40bc7e0d69ea383c7794669f70279b1922547daf10329004a0c38cc2",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/twitch-follow-alert.json"
         }
       ]
     },
     {
-      "id": "subscribe-badge",
-      "name": "Subscribe & Like Pill",
-      "description": "Animated bell notification and subscribe badge",
-      "category": "stickers",
+      "id": "discord-join-badge",
+      "name": "Discord Community Invite",
+      "description": "Animated Discord server banner with join prompt",
+      "category": "social",
       "kind": "lottie",
       "tags": [
-        "subscribe",
-        "bell",
-        "youtube",
-        "social",
-        "like",
-        "share"
+        "discord",
+        "community",
+        "chat",
+        "invite"
       ],
       "duration": 2.5,
-      "preview_width": 500,
-      "preview_height": 200,
+      "preview_width": 640,
+      "preview_height": 360,
       "author": "iCut Studio",
       "license": "CC0-1.0",
       "playback": "intro-hold-outro",
       "files": [
         {
           "role": "main",
-          "name": "subscribe.json",
-          "size": 105,
-          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
-          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/subscribe.json"
+          "name": "discord-join-badge.json",
+          "size": 694,
+          "sha256": "79ae5a040087200ba582ccb90935bce62cecaeb412ba983b369feb0e464dab94",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/discord-join-badge.json"
         }
       ]
     },
     {
-      "id": "cinematic-letterbox",
-      "name": "Cinematic Glow Intro",
-      "description": "Letterboxed widescreen cinematic light burst title",
-      "category": "titles",
+      "id": "minimal-clean-bar",
+      "name": "Minimal Clean Nameplate",
+      "description": "Modern minimalist lower third with dual-color bar",
+      "category": "lower-thirds",
       "kind": "lottie",
       "tags": [
-        "cinema",
-        "film",
-        "widescreen",
-        "movie",
-        "intro",
-        "flare"
+        "lower third",
+        "name",
+        "minimal",
+        "clean",
+        "bar"
+      ],
+      "duration": 3.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "minimal-clean-bar.json",
+          "size": 692,
+          "sha256": "1ae602235dda6aa1123177eb3bb5b67cfa96aeb8c3990f95fa0257a8f6cbadd5",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/minimal-clean-bar.json"
+        }
+      ]
+    },
+    {
+      "id": "neon-cyber-lower-third",
+      "name": "Cyberpunk Neon Glow Bar",
+      "description": "Futuristic glowing sci-fi lower third banner",
+      "category": "lower-thirds",
+      "kind": "lottie",
+      "tags": [
+        "cyberpunk",
+        "neon",
+        "sci-fi",
+        "glow",
+        "lower third"
       ],
       "duration": 3.5,
       "preview_width": 640,
@@ -164,10 +277,967 @@
       "files": [
         {
           "role": "main",
-          "name": "cinematic.json",
-          "size": 105,
-          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
-          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/cinematic.json"
+          "name": "neon-cyber-lower-third.json",
+          "size": 694,
+          "sha256": "87feaee906cdab537dd36d6b1e11679bc132c05f8ef6bdedeed5461ccbbcd0d7",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/neon-cyber-lower-third.json"
+        }
+      ]
+    },
+    {
+      "id": "breaking-news-ticker",
+      "name": "Broadcast Breaking News Banner",
+      "description": "Urgent news header with scrolling ticker accent",
+      "category": "lower-thirds",
+      "kind": "lottie",
+      "tags": [
+        "news",
+        "broadcast",
+        "breaking news",
+        "banner",
+        "headline"
+      ],
+      "duration": 4.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "breaking-news-ticker.json",
+          "size": 709,
+          "sha256": "3ea1274f2dcebc8904e179429cee9a10678786a18bab58c903310bc7cc6fae31",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/breaking-news-ticker.json"
+        }
+      ]
+    },
+    {
+      "id": "corporate-gold-accent",
+      "name": "Corporate Elegant Gold Accent",
+      "description": "Sophisticated gold border lower third for presentations",
+      "category": "lower-thirds",
+      "kind": "lottie",
+      "tags": [
+        "corporate",
+        "gold",
+        "elegant",
+        "business",
+        "title"
+      ],
+      "duration": 3.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "corporate-gold-accent.json",
+          "size": 707,
+          "sha256": "81a258d8f71a2ac46836d2b873fb3bc4bdecf618ad36a9da2ac6520cf66afe66",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/corporate-gold-accent.json"
+        }
+      ]
+    },
+    {
+      "id": "vlog-glass-box",
+      "name": "Modern Vlog Floating Glass Box",
+      "description": "Frosted glass card banner for vlogs and travel videos",
+      "category": "lower-thirds",
+      "kind": "lottie",
+      "tags": [
+        "vlog",
+        "glass",
+        "modern",
+        "blur",
+        "card"
+      ],
+      "duration": 3.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "vlog-glass-box.json",
+          "size": 706,
+          "sha256": "745709a8d19c9a2c0ca2581c346c612e053858471e8ab13984fd65090723cd79",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/vlog-glass-box.json"
+        }
+      ]
+    },
+    {
+      "id": "streamer-tag-neon",
+      "name": "Streamer Game Tag",
+      "description": "Gamer nameplate with animated pulsing borders",
+      "category": "lower-thirds",
+      "kind": "lottie",
+      "tags": [
+        "streamer",
+        "gamer",
+        "esports",
+        "tag",
+        "neon"
+      ],
+      "duration": 3.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "streamer-tag-neon.json",
+          "size": 679,
+          "sha256": "956ff4c7f8701b93e31b825b2b96ea9f62c556c4f5b38e9f5ff09f358893f44b",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/streamer-tag-neon.json"
+        }
+      ]
+    },
+    {
+      "id": "dual-accent-ribbon",
+      "name": "Creative Dual Accent Ribbon",
+      "description": "Slanted ribbon graphics with smooth slide transition",
+      "category": "lower-thirds",
+      "kind": "lottie",
+      "tags": [
+        "ribbon",
+        "creative",
+        "accent",
+        "slanted",
+        "design"
+      ],
+      "duration": 3.2,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "dual-accent-ribbon.json",
+          "size": 699,
+          "sha256": "acb00f4de37987552591faafa63112f55b3ebca3309bbc1a6dbdc21b93aae5a6",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/dual-accent-ribbon.json"
+        }
+      ]
+    },
+    {
+      "id": "kinetic-stomp-intro",
+      "name": "Kinetic Typography Stomp",
+      "description": "High-energy fast popping title animation",
+      "category": "titles",
+      "kind": "lottie",
+      "tags": [
+        "kinetic",
+        "stomp",
+        "typography",
+        "fast",
+        "intro"
+      ],
+      "duration": 3.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "kinetic-stomp-intro.json",
+          "size": 694,
+          "sha256": "74e28a8fc20c899c93e0b3ba326cadf485292b5970015ca759b0d7e068f5b38e",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/kinetic-stomp-intro.json"
+        }
+      ]
+    },
+    {
+      "id": "neon-cyber-title",
+      "name": "Neon Cyber Glitch Title",
+      "description": "Cyberpunk glowing title with subtle digital flicker",
+      "category": "titles",
+      "kind": "lottie",
+      "tags": [
+        "cyber",
+        "neon",
+        "glitch",
+        "title",
+        "intro"
+      ],
+      "duration": 3.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "neon-cyber-title.json",
+          "size": 694,
+          "sha256": "6a6051f93263ba8060a36f011b9476a2ada5462eaeb7452478ea16deb823143e",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/neon-cyber-title.json"
+        }
+      ]
+    },
+    {
+      "id": "cinematic-gold-widescreen",
+      "name": "Cinematic Letterbox Gold Title",
+      "description": "Widescreen letterbox film title with golden flare",
+      "category": "titles",
+      "kind": "lottie",
+      "tags": [
+        "cinematic",
+        "film",
+        "movie",
+        "gold",
+        "widescreen"
+      ],
+      "duration": 4.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "cinematic-gold-widescreen.json",
+          "size": 710,
+          "sha256": "5b770a5e29a2a6b6eecf73f20258aa0acda9c2c2d0b475f0b85658014f7daa13",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/cinematic-gold-widescreen.json"
+        }
+      ]
+    },
+    {
+      "id": "modern-fade-heading",
+      "name": "Modern Minimalist Slide Title",
+      "description": "Clean typography sliding from left with accent line",
+      "category": "titles",
+      "kind": "lottie",
+      "tags": [
+        "modern",
+        "clean",
+        "slide",
+        "heading",
+        "minimal"
+      ],
+      "duration": 2.8,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "modern-fade-heading.json",
+          "size": 706,
+          "sha256": "5d2dbe35d8eebf46e5ec1abe58fa7663fa0d01d03eae77a9a8abd71d42ed1801",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/modern-fade-heading.json"
+        }
+      ]
+    },
+    {
+      "id": "retro-synthwave-title",
+      "name": "Retro 80s Synthwave Heading",
+      "description": "Vaporwave sunset neon typography for retro vibes",
+      "category": "titles",
+      "kind": "lottie",
+      "tags": [
+        "retro",
+        "synthwave",
+        "80s",
+        "vaporwave",
+        "neon"
+      ],
+      "duration": 3.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "retro-synthwave-title.json",
+          "size": 702,
+          "sha256": "24d5d5384b55ced16f2d638365f856e61161e03dc3fd439d54776f30ddf20c34",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/retro-synthwave-title.json"
+        }
+      ]
+    },
+    {
+      "id": "clean-editorial-serif",
+      "name": "Clean Editorial Heading",
+      "description": "Luxury magazine editorial title with delicate underlines",
+      "category": "titles",
+      "kind": "lottie",
+      "tags": [
+        "editorial",
+        "luxury",
+        "serif",
+        "fashion",
+        "title"
+      ],
+      "duration": 3.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "clean-editorial-serif.json",
+          "size": 692,
+          "sha256": "447069908a9cf466de9ff0f66b3bce9299cabcb68db9f9a2dcdbc9379c5af525",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/clean-editorial-serif.json"
+        }
+      ]
+    },
+    {
+      "id": "dynamic-glitch-split",
+      "name": "Dynamic Glitch Split Intro",
+      "description": "RGB chromatic aberration split title reveal",
+      "category": "titles",
+      "kind": "lottie",
+      "tags": [
+        "glitch",
+        "split",
+        "rgb",
+        "chromatic",
+        "reveal"
+      ],
+      "duration": 2.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "dynamic-glitch-split.json",
+          "size": 697,
+          "sha256": "7b0d7a284950518f2bb93ef91fcd69ed407eb347345ffe1d128a3f926b5879e2",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/dynamic-glitch-split.json"
+        }
+      ]
+    },
+    {
+      "id": "confetti-celebration-burst",
+      "name": "Confetti Celebration Burst",
+      "description": "Colorful particles and ribbons explosion for celebrations",
+      "category": "reactions",
+      "kind": "lottie",
+      "tags": [
+        "confetti",
+        "party",
+        "celebration",
+        "burst",
+        "winner"
+      ],
+      "duration": 2.2,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "confetti-celebration-burst.json",
+          "size": 696,
+          "sha256": "6f1cab539f481d4806d5a22dcc99a30818e2f2cf0d0f92482c454ccb2443f952",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/confetti-celebration-burst.json"
+        }
+      ]
+    },
+    {
+      "id": "fire-flame-combustion",
+      "name": "Fire Flame Blast",
+      "description": "Vibrant burning flame effect for hot moments",
+      "category": "reactions",
+      "kind": "lottie",
+      "tags": [
+        "fire",
+        "flame",
+        "hot",
+        "burn",
+        "reaction"
+      ],
+      "duration": 2.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "fire-flame-combustion.json",
+          "size": 676,
+          "sha256": "74ac580d7551051d87639030fbb34dc49dbf4bcb122290b3cc5566a6199ebf90",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/fire-flame-combustion.json"
+        }
+      ]
+    },
+    {
+      "id": "heart-pop-explosion",
+      "name": "Heart Pop Explosion",
+      "description": "Floating animated multi-hearts for love and appreciation",
+      "category": "reactions",
+      "kind": "lottie",
+      "tags": [
+        "heart",
+        "love",
+        "pop",
+        "cute",
+        "reaction"
+      ],
+      "duration": 2.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "heart-pop-explosion.json",
+          "size": 682,
+          "sha256": "882e2b47fd2984ab278db6434841d682e50e0737b5e22db95b7617588f701935",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/heart-pop-explosion.json"
+        }
+      ]
+    },
+    {
+      "id": "100-points-gold-stamp",
+      "name": "100 Points Gold Stamp",
+      "description": "Emphatic 100% score gold stamp with impact shockwave",
+      "category": "reactions",
+      "kind": "lottie",
+      "tags": [
+        "100",
+        "score",
+        "stamp",
+        "gold",
+        "perfect"
+      ],
+      "duration": 1.8,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "100-points-gold-stamp.json",
+          "size": 687,
+          "sha256": "59b897774cf528bbc8d58d47c27eba77ca0efb13150183868aa797d1b5188452",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/100-points-gold-stamp.json"
+        }
+      ]
+    },
+    {
+      "id": "laughing-tears-emoji",
+      "name": "Laughing Tears Bounce",
+      "description": "Jumping emoji with animated water drop tears",
+      "category": "reactions",
+      "kind": "lottie",
+      "tags": [
+        "laugh",
+        "funny",
+        "lol",
+        "emoji",
+        "tears"
+      ],
+      "duration": 2.2,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "laughing-tears-emoji.json",
+          "size": 687,
+          "sha256": "621b0ea8bd9060661481df6ac65be6154cbb640da1124db9dc9bf18dfa673d1c",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/laughing-tears-emoji.json"
+        }
+      ]
+    },
+    {
+      "id": "thumbs-up-sparkle",
+      "name": "Thumbs Up Neon Sparkle",
+      "description": "Glowing thumbs up badge with surrounding stars",
+      "category": "reactions",
+      "kind": "lottie",
+      "tags": [
+        "thumbs up",
+        "good",
+        "approve",
+        "sparkle",
+        "neon"
+      ],
+      "duration": 1.8,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "thumbs-up-sparkle.json",
+          "size": 689,
+          "sha256": "6cb9bdf59e2e0b46edcf199b0c7c52df80e5204e472c01fc518e811910e2a345",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/thumbs-up-sparkle.json"
+        }
+      ]
+    },
+    {
+      "id": "star-burst-rating",
+      "name": "5 Stars Rating Pop",
+      "description": "Five shining golden stars popping sequentially",
+      "category": "reactions",
+      "kind": "lottie",
+      "tags": [
+        "stars",
+        "rating",
+        "review",
+        "5 stars",
+        "gold"
+      ],
+      "duration": 2.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "star-burst-rating.json",
+          "size": 681,
+          "sha256": "c427211f11c1b21a9bfe698112785fa1c9e17116345038df637632ea09a6d48f",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/star-burst-rating.json"
+        }
+      ]
+    },
+    {
+      "id": "neon-arrow-pointer",
+      "name": "Neon Arrow Pointer Animated",
+      "description": "Bouncing neon arrow directing viewers to links or elements",
+      "category": "stickers",
+      "kind": "lottie",
+      "tags": [
+        "arrow",
+        "pointer",
+        "direction",
+        "look",
+        "neon"
+      ],
+      "duration": 1.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "neon-arrow-pointer.json",
+          "size": 699,
+          "sha256": "111a0ea39c95848685373dd9d7df33fda604ef9ba690841be9bbb705b06f080e",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/neon-arrow-pointer.json"
+        }
+      ]
+    },
+    {
+      "id": "sale-50-percent-pulse",
+      "name": "Sale 50% Off Pulsing Tag",
+      "description": "High-conversion discount sticker for promos",
+      "category": "stickers",
+      "kind": "lottie",
+      "tags": [
+        "sale",
+        "discount",
+        "promo",
+        "50%",
+        "shop"
+      ],
+      "duration": 2.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "sale-50-percent-pulse.json",
+          "size": 692,
+          "sha256": "be129e0441425c0d33444307ad016b9677dea1f5157283a88fc140e5a64820be",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/sale-50-percent-pulse.json"
+        }
+      ]
+    },
+    {
+      "id": "new-arrival-badge",
+      "name": "New Arrival Gradient Badge",
+      "description": "Shimmering gradient sticker for fresh content or products",
+      "category": "stickers",
+      "kind": "lottie",
+      "tags": [
+        "new",
+        "fresh",
+        "arrival",
+        "badge",
+        "gradient"
+      ],
+      "duration": 2.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "new-arrival-badge.json",
+          "size": 696,
+          "sha256": "e3eb68ec406dfd1984f2e2223034786e52bc2757d367227531ba6a217736b31f",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/new-arrival-badge.json"
+        }
+      ]
+    },
+    {
+      "id": "warning-hazard-flash",
+      "name": "Warning Hazard Flash Triangle",
+      "description": "Flashing yellow hazard triangle icon for cautionary alerts",
+      "category": "stickers",
+      "kind": "lottie",
+      "tags": [
+        "warning",
+        "alert",
+        "hazard",
+        "caution",
+        "triangle"
+      ],
+      "duration": 1.8,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "warning-hazard-flash.json",
+          "size": 702,
+          "sha256": "04207991f41ca74a454342c0769863b1b6ed20d3f60ecd961b7ca04bb20d454d",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/warning-hazard-flash.json"
+        }
+      ]
+    },
+    {
+      "id": "verified-checkmark-badge",
+      "name": "Verified Checkmark Badge",
+      "description": "Authentic official checkmark with spin reveal",
+      "category": "stickers",
+      "kind": "lottie",
+      "tags": [
+        "verified",
+        "check",
+        "badge",
+        "trust",
+        "official"
+      ],
+      "duration": 1.8,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "verified-checkmark-badge.json",
+          "size": 692,
+          "sha256": "9ad9b4022f6304948ac4bcde80b9b464996e9ef0fd674ee4bdc03ea9969dbdaf",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/verified-checkmark-badge.json"
+        }
+      ]
+    },
+    {
+      "id": "countdown-timer-circle",
+      "name": "Countdown 5s Circle Timer",
+      "description": "Dynamic circular wipe countdown from 5 to 1",
+      "category": "stickers",
+      "kind": "lottie",
+      "tags": [
+        "countdown",
+        "timer",
+        "clock",
+        "5s",
+        "intro"
+      ],
+      "duration": 5.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "countdown-timer-circle.json",
+          "size": 700,
+          "sha256": "8e3e58e8ffd7c8d44d0f62a0427bbf06f3b9774b414a40a817972806dd89aad3",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/countdown-timer-circle.json"
+        }
+      ]
+    },
+    {
+      "id": "trending-fire-pill",
+      "name": "Trending Now Fire Badge",
+      "description": "Pill badge with flame icon for viral topics",
+      "category": "stickers",
+      "kind": "lottie",
+      "tags": [
+        "trending",
+        "viral",
+        "fire",
+        "popular",
+        "hot"
+      ],
+      "duration": 2.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "trending-fire-pill.json",
+          "size": 690,
+          "sha256": "a729ec2ec1afbc7760da21c0885a9a28ecb8c5f4caf9a432f10d5c7aa65a4d73",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/trending-fire-pill.json"
+        }
+      ]
+    },
+    {
+      "id": "neon-laser-frame",
+      "name": "Neon Laser Border Frame",
+      "description": "Full-screen pulsing laser border for intense action",
+      "category": "decorations",
+      "kind": "lottie",
+      "tags": [
+        "laser",
+        "border",
+        "frame",
+        "neon",
+        "cyber"
+      ],
+      "duration": 3.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "neon-laser-frame.json",
+          "size": 692,
+          "sha256": "847e4400f8289e29e45bee21be652e868d23f116e87548f8373f8750219853d1",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/neon-laser-frame.json"
+        }
+      ]
+    },
+    {
+      "id": "particle-ambient-drift",
+      "name": "Ambient Glow Particle Drift",
+      "description": "Gentle rising dust particles and light orbs",
+      "category": "decorations",
+      "kind": "lottie",
+      "tags": [
+        "particles",
+        "dust",
+        "ambient",
+        "drift",
+        "light"
+      ],
+      "duration": 4.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "particle-ambient-drift.json",
+          "size": 703,
+          "sha256": "5407ea5937662c3ccec920dacaa2f84fd4a69806c4e33f46daca01eef3014bc5",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/particle-ambient-drift.json"
+        }
+      ]
+    },
+    {
+      "id": "film-viewfinder-hud",
+      "name": "Film Camera Viewfinder HUD",
+      "description": "Cinematic camera brackets, crosshair and REC indicator",
+      "category": "decorations",
+      "kind": "lottie",
+      "tags": [
+        "viewfinder",
+        "camera",
+        "hud",
+        "rec",
+        "cinema"
+      ],
+      "duration": 5.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "film-viewfinder-hud.json",
+          "size": 701,
+          "sha256": "cd74a31414787148cc880c682289aaeaa46b3f520f551571fd2237773e82e601",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/film-viewfinder-hud.json"
+        }
+      ]
+    },
+    {
+      "id": "audio-spectrum-waves",
+      "name": "Audio Spectrum Visualizer Bars",
+      "description": "Jumping equalizer visualizer bars for music beats",
+      "category": "decorations",
+      "kind": "lottie",
+      "tags": [
+        "audio",
+        "spectrum",
+        "equalizer",
+        "music",
+        "bars"
+      ],
+      "duration": 3.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "audio-spectrum-waves.json",
+          "size": 705,
+          "sha256": "f8dc2f557529dfa424efbd5ee3f6f551a59c4527d9c343330b49cdc6c56666f4",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/audio-spectrum-waves.json"
+        }
+      ]
+    },
+    {
+      "id": "cyber-scanline-grid",
+      "name": "Cyber Grid Scanline Overlay",
+      "description": "Retro CRT monitor scanlines with grid horizon",
+      "category": "decorations",
+      "kind": "lottie",
+      "tags": [
+        "scanline",
+        "crt",
+        "grid",
+        "retro",
+        "overlay"
+      ],
+      "duration": 4.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "cyber-scanline-grid.json",
+          "size": 703,
+          "sha256": "2329db8315d169cc2f1c7e572ef12f25d16ecedd26f517ece12010e79b109ac2",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/cyber-scanline-grid.json"
+        }
+      ]
+    },
+    {
+      "id": "starfield-warp-streaks",
+      "name": "Starfield Warp Speed Streaks",
+      "description": "Space warp streaks zooming toward camera",
+      "category": "decorations",
+      "kind": "lottie",
+      "tags": [
+        "stars",
+        "warp",
+        "speed",
+        "space",
+        "hyperspace"
+      ],
+      "duration": 3.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "starfield-warp-streaks.json",
+          "size": 705,
+          "sha256": "a451bb96624c45961757212d2e9525b34152e4cd30596bc371fa84b605ca2cb1",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/starfield-warp-streaks.json"
+        }
+      ]
+    },
+    {
+      "id": "bokeh-floating-lights",
+      "name": "Bokeh Floating Lights",
+      "description": "Soft out-of-focus dreamlike bokeh bubbles",
+      "category": "decorations",
+      "kind": "lottie",
+      "tags": [
+        "bokeh",
+        "blur",
+        "bubbles",
+        "dream",
+        "lights"
+      ],
+      "duration": 4.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "bokeh-floating-lights.json",
+          "size": 691,
+          "sha256": "30f62a61a7c0f7e7ae55daefa35a8ef615d6b3edfdbaa16a3332e7ec8de23df5",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/bokeh-floating-lights.json"
         }
       ]
     }
