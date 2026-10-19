@@ -1,0 +1,175 @@
+{
+  "categories": [
+    {
+      "id": "reactions",
+      "label": "Reactions"
+    },
+    {
+      "id": "lower-thirds",
+      "label": "Lower Thirds"
+    },
+    {
+      "id": "titles",
+      "label": "Titles & Intros"
+    },
+    {
+      "id": "stickers",
+      "label": "Stickers & Badges"
+    },
+    {
+      "id": "decorations",
+      "label": "Decorations"
+    }
+  ],
+  "assets": [
+    {
+      "id": "confetti-celebration",
+      "name": "Confetti Burst",
+      "description": "Celebration burst effect with colorful particles",
+      "category": "reactions",
+      "kind": "lottie",
+      "tags": [
+        "party",
+        "celebration",
+        "confetti",
+        "burst",
+        "fun"
+      ],
+      "duration": 2.0,
+      "preview_width": 500,
+      "preview_height": 500,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "confetti.json",
+          "size": 105,
+          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/confetti.json"
+        }
+      ]
+    },
+    {
+      "id": "neon-sparkle",
+      "name": "Neon Sparkle",
+      "description": "Vibrant glowing sparkles for video highlights",
+      "category": "decorations",
+      "kind": "lottie",
+      "tags": [
+        "sparkle",
+        "star",
+        "shine",
+        "glow",
+        "magic",
+        "neon"
+      ],
+      "duration": 1.5,
+      "preview_width": 500,
+      "preview_height": 500,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "loop",
+      "files": [
+        {
+          "role": "main",
+          "name": "sparkle.json",
+          "size": 105,
+          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/sparkle.json"
+        }
+      ]
+    },
+    {
+      "id": "minimal-lower-third",
+      "name": "Clean Modern Title",
+      "description": "Minimalist lower third banner with animated text placeholder",
+      "category": "lower-thirds",
+      "kind": "lottie",
+      "tags": [
+        "lower third",
+        "name",
+        "title",
+        "minimal",
+        "modern",
+        "news"
+      ],
+      "duration": 3.0,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "lower-third.json",
+          "size": 105,
+          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/lower-third.json"
+        }
+      ]
+    },
+    {
+      "id": "subscribe-badge",
+      "name": "Subscribe & Like Pill",
+      "description": "Animated bell notification and subscribe badge",
+      "category": "stickers",
+      "kind": "lottie",
+      "tags": [
+        "subscribe",
+        "bell",
+        "youtube",
+        "social",
+        "like",
+        "share"
+      ],
+      "duration": 2.5,
+      "preview_width": 500,
+      "preview_height": 200,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "subscribe.json",
+          "size": 105,
+          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/subscribe.json"
+        }
+      ]
+    },
+    {
+      "id": "cinematic-letterbox",
+      "name": "Cinematic Glow Intro",
+      "description": "Letterboxed widescreen cinematic light burst title",
+      "category": "titles",
+      "kind": "lottie",
+      "tags": [
+        "cinema",
+        "film",
+        "widescreen",
+        "movie",
+        "intro",
+        "flare"
+      ],
+      "duration": 3.5,
+      "preview_width": 640,
+      "preview_height": 360,
+      "author": "iCut Studio",
+      "license": "CC0-1.0",
+      "playback": "intro-hold-outro",
+      "files": [
+        {
+          "role": "main",
+          "name": "cinematic.json",
+          "size": 105,
+          "sha256": "8d3e2327774ba972e3576dfa81155fb2f9d519d5eebf5e9ce614a92c4bbf5e06",
+          "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/cinematic.json"
+        }
+      ]
+    }
+  ]
+}
