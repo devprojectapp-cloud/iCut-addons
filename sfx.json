@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": "transitions",
+      "label": "Transitions"
+    },
+    {
+      "id": "ui",
+      "label": "Interface & Clicks"
+    },
+    {
+      "id": "cinematic",
+      "label": "Cinematic Impacts"
+    }
+  ],
+  "sounds": [
+    {
+      "id": "whoosh-fast-1",
+      "name": "Fast Whoosh Swish",
+      "category": "transitions",
+      "subcategory": "Whoosh",
+      "duration": 0.45,
+      "size": 8044,
+      "file": "whoosh_fast_1.wav",
+      "sha256": "123456",
+      "peaks": "////////////////////////////////////////////////////////////////////////////////////////",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/whoosh_fast_1.wav"
+    }
+  ]
+}
