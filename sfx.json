@@ -2,29 +2,385 @@
   "categories": [
     {
       "id": "transitions",
-      "label": "Transitions"
+      "label": "Transitions & Whooshes"
+    },
+    {
+      "id": "impacts",
+      "label": "Cinematic Impacts"
     },
     {
       "id": "ui",
       "label": "Interface & Clicks"
     },
     {
-      "id": "cinematic",
-      "label": "Cinematic Impacts"
+      "id": "glitch",
+      "label": "Glitch & Sci-Fi"
+    },
+    {
+      "id": "foley",
+      "label": "Real-world Foley"
     }
   ],
   "sounds": [
     {
-      "id": "whoosh-fast-1",
-      "name": "Fast Whoosh Swish",
+      "id": "fast-air-swish",
+      "name": "Fast Air Swish",
       "category": "transitions",
       "subcategory": "Whoosh",
-      "duration": 0.45,
-      "size": 8044,
-      "file": "whoosh_fast_1.wav",
-      "sha256": "123456",
-      "peaks": "////////////////////////////////////////////////////////////////////////////////////////",
-      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/whoosh_fast_1.wav"
+      "duration": 0.4,
+      "size": 35324,
+      "file": "fast-air-swish.wav",
+      "sha256": "748f1a32494d755868a19ff2a0019fa63ea523c18337a6d8859448da53b8f7fc",
+      "peaks": "AAIFChAXHicwPElVZHJ/iZqjsb3Q3+Pv////////////////////+vXn3bzCuaqaj39vYllNQDIqHxgQCwYDAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/fast-air-swish.wav"
+    },
+    {
+      "id": "heavy-low-whoosh",
+      "name": "Heavy Low Whoosh",
+      "category": "transitions",
+      "subcategory": "Whoosh",
+      "duration": 0.7,
+      "size": 61782,
+      "file": "heavy-low-whoosh.wav",
+      "sha256": "840d57c03bd551e848e4fffb6f53fd678c9bbd02e370c64aad7b037a62fddf72",
+      "peaks": "AAIFChAWICczPUtYZW+Bi56sssjR4Ofw/v//////////////////+vXt4NXIuq2ajIBzZVhJPzQpHxYQCgUCAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/heavy-low-whoosh.wav"
+    },
+    {
+      "id": "high-whip-whoosh",
+      "name": "High Whip Whoosh",
+      "category": "transitions",
+      "subcategory": "Whoosh",
+      "duration": 0.35,
+      "size": 30912,
+      "file": "high-whip-whoosh.wav",
+      "sha256": "a1f34d18e28430a31de1d96e502f1c76025ea734106c8d90a640099315dfae70",
+      "peaks": "AAIFChAXHigxPUlVZHJ/j5qluMTK3+b0+f///////////////////fLk28m7s6Sgi35wZVVLPjQoHxcPCgYCAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/high-whip-whoosh.wav"
+    },
+    {
+      "id": "cinematic-sub-whoosh",
+      "name": "Cinematic Sub Whoosh",
+      "category": "transitions",
+      "subcategory": "Whoosh",
+      "duration": 1.2,
+      "size": 105884,
+      "file": "cinematic-sub-whoosh.wav",
+      "sha256": "8306f60fb3de985f0c9f7738e9bd2b4c672304ccc5acff4478a55a87fea7d9d2",
+      "peaks": "AAIGChAXICk0PktXZXSAj52qt8TR3Or0//////////////////////js48zKuK2ckIR0ZllMPzQpIBcRCgYCAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/cinematic-sub-whoosh.wav"
+    },
+    {
+      "id": "quick-page-swish",
+      "name": "Quick Page Flip Swish",
+      "category": "transitions",
+      "subcategory": "Swish",
+      "duration": 0.3,
+      "size": 26504,
+      "file": "quick-page-swish.wav",
+      "sha256": "fef967b090de3f2e427d9659dfb8bd8abaa7e03f069a5f5e38cf9310b191a5ad",
+      "peaks": "AAIFCQ8WICowP0lWY2+BjZurt8HO2+Hy+///////////////////+vXm5KC/uKmckIR2ZllOQjMqIhgRCgYCAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/quick-page-swish.wav"
+    },
+    {
+      "id": "fireball-whoosh",
+      "name": "Fireball Whoosh Pass",
+      "category": "transitions",
+      "subcategory": "Whoosh",
+      "duration": 0.8,
+      "size": 70604,
+      "file": "fireball-whoosh.wav",
+      "sha256": "ded5cfdd92d3880a00a2564f6b21c96d8c9454cedf905a17cec7b5705f2fd8ea",
+      "peaks": "AAIFChAYHikzQEtXZHF/kJyqusLT3+vz//////////////////////Xo39DHuaedkIF0ZVRMPzQqIBYQCgUCAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/fireball-whoosh.wav"
+    },
+    {
+      "id": "cinematic-sub-boom",
+      "name": "Cinematic Bass Drop Boom",
+      "category": "impacts",
+      "subcategory": "Boom",
+      "duration": 1.5,
+      "size": 132344,
+      "file": "cinematic-sub-boom.wav",
+      "sha256": "4f8f4f3419ccde7ce4c5764fde79dff0fe72c05b5a465112c56f2daa7ca65da3",
+      "peaks": "+t7GsaCUgnVsYFNNRT85Mi0oJSAeGhcWEhEQDQwLCgkIBwYGBQQEAwMDAgICAgEBAQEBAQEAAAAAAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/cinematic-sub-boom.wav"
+    },
+    {
+      "id": "metal-clang-hit",
+      "name": "Heavy Metal Clang",
+      "category": "impacts",
+      "subcategory": "Clang",
+      "duration": 1.0,
+      "size": 88244,
+      "file": "metal-clang-hit.wav",
+      "sha256": "709c0d34d55d2c1883898d44e01a55eacdb8eb4a6fe497e758d8892a28a7399d",
+      "peaks": "+ufWx7+wpZiOgXtya2JbU1FKRj88OTQvLConJSIgHRsZGBYUEhEREA4NDAsKCgkJCAcHBgYFBQUEBAQDAwMDAg==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/metal-clang-hit.wav"
+    },
+    {
+      "id": "laser-strike-hit",
+      "name": "Sci-Fi Laser Hit",
+      "category": "impacts",
+      "subcategory": "Laser",
+      "duration": 0.8,
+      "size": 70604,
+      "file": "laser-strike-hit.wav",
+      "sha256": "a00f229e9feed017d33386eb94d18b6a8866bc614d2ae2d14de11dbcf355c628",
+      "peaks": "+ebb0se+rqWhmI+HfXdwamRgWFVPTUZDPzw5NTIvLConJiUiIB4dGxkXFxYUEhIREA8ODQsMCwoKCQkJCAcHBw==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/laser-strike-hit.wav"
+    },
+    {
+      "id": "punchy-thud-hit",
+      "name": "Punchy Thud Impact",
+      "category": "impacts",
+      "subcategory": "Thud",
+      "duration": 0.6,
+      "size": 52964,
+      "file": "punchy-thud-hit.wav",
+      "sha256": "54cabde8b0f0db27cbb029597da5e9273ac214ace8a0c0773b4ca0ea8df0d872",
+      "peaks": "9PDd2NDMwLWxqqScmI+KhH98cW9rZ2JeWFVOTk5KRUNAOzs4NDIzLy0rKicnJR8iHx8eFxsYGRgXFhMUEBMOEQ==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/punchy-thud-hit.wav"
+    },
+    {
+      "id": "sub-bass-braam",
+      "name": "Sub Bass Braam",
+      "category": "impacts",
+      "subcategory": "Braam",
+      "duration": 2.0,
+      "size": 176444,
+      "file": "sub-bass-braam.wav",
+      "sha256": "359dee24d933489a9be742b59bbbcd9b6def027e3237f9488b9bd769f0c489bc",
+      "peaks": "+9e4o455a1xRRDwzLCciHhkWExEODAoJCAcGBQQEAwMCAgIBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/sub-bass-braam.wav"
+    },
+    {
+      "id": "reverse-cymbal-impact",
+      "name": "Reverse Cymbal Hit",
+      "category": "impacts",
+      "subcategory": "Cymbal",
+      "duration": 1.6,
+      "size": 141164,
+      "file": "reverse-cymbal-impact.wav",
+      "sha256": "33823c4449be980fec1f6d7ee4f9dc1b51ecd48dbf4ba7d2330dcb75e6b4daf8",
+      "peaks": "9d7HsZ6Qf2xkWFBGPzgyLSclIB0ZFxQTEA4MCwoJCAcGBgUEBAMDAwICAgEBAQEBAQAAAAAAAAAAAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/reverse-cymbal-impact.wav"
+    },
+    {
+      "id": "modern-app-click",
+      "name": "Modern App Click",
+      "category": "ui",
+      "subcategory": "Click",
+      "duration": 0.15,
+      "size": 13274,
+      "file": "modern-app-click.wav",
+      "sha256": "02e4babc3dad98be7ec0e170497a01e9a7e2ad3736707191a32bb7845438d355",
+      "peaks": "/NOskHViUkM4LiYgGhYSDwwKCAcGBAQDAgIBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/modern-app-click.wav"
+    },
+    {
+      "id": "clean-mouse-tap",
+      "name": "Clean Mouse Tap",
+      "category": "ui",
+      "subcategory": "Tap",
+      "duration": 0.1,
+      "size": 8864,
+      "file": "clean-mouse-tap.wav",
+      "sha256": "bb6594a238c507b8f2af72044c535eb80f934546acd2daa320d27513ca58c138",
+      "peaks": "/N7FrJmHeGleUkpAODIsJyIfGxgVEhAODQsKCAgHBgUEBAMDAgICAgEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/clean-mouse-tap.wav"
+    },
+    {
+      "id": "pop-bubble-notif",
+      "name": "Pop Bubble Notification",
+      "category": "ui",
+      "subcategory": "Bubble",
+      "duration": 0.25,
+      "size": 22094,
+      "file": "pop-bubble-notif.wav",
+      "sha256": "354e06517e7cf406b965fc6309505e73e6aaff2c0e2792ed86baf32015688a32",
+      "peaks": "/OPRvKmcjH50aV5XTkZAOjQvKycjIB0aGBYTEhAODQwLCgkIBwYGBQUEBAMDAwICAgIBAQEBAQEBAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/pop-bubble-notif.wav"
+    },
+    {
+      "id": "soft-crystal-chime",
+      "name": "Soft Crystal Chime",
+      "category": "ui",
+      "subcategory": "Chime",
+      "duration": 0.8,
+      "size": 70604,
+      "file": "soft-crystal-chime.wav",
+      "sha256": "db496953c60c6fc44f5769a92d42c860f57be30b565a34df1f4aeb68724c8e99",
+      "peaks": "/v7+/v7+/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v3+/v7+/v7+/v7+/v79/v7+/v7+/v7+/v7+/g==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/soft-crystal-chime.wav"
+    },
+    {
+      "id": "success-level-up",
+      "name": "Success Level Up Ding",
+      "category": "ui",
+      "subcategory": "Success",
+      "duration": 1.2,
+      "size": 105884,
+      "file": "success-level-up.wav",
+      "sha256": "64491cb136271540254168164b4b8d7f4a3818597999f0a01d7e954aa5afe52f",
+      "peaks": "3NDFurCmnZWMhX13cGpkX1lVUEtHQ0A8OTYzMC0rKCYkIiAeHRsaGBcWFBMSERAPDg4NDAsLCgoJCAgIBwcGBg==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/success-level-up.wav"
+    },
+    {
+      "id": "error-warning-beep",
+      "name": "Error Warning Beep",
+      "category": "ui",
+      "subcategory": "Error",
+      "duration": 0.4,
+      "size": 35324,
+      "file": "error-warning-beep.wav",
+      "sha256": "fcd730d54c2b7392243f69b12cc56f4ab1f91289575eaca8ec5b7dabc7b3e8c6",
+      "peaks": "x8nLyMvKy8XKycbLyMrLx8rKysvLyMrKy8jKysXIxcrGycrKx8rLy8jLy8jDy8vLyMfJycjDycvFy8TLxcnJyw==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/error-warning-beep.wav"
+    },
+    {
+      "id": "toggle-switch-snap",
+      "name": "Toggle Switch Snap",
+      "category": "ui",
+      "subcategory": "Toggle",
+      "duration": 0.18,
+      "size": 15920,
+      "file": "toggle-switch-snap.wav",
+      "sha256": "842380fabead951770b123898e1e485e3e92d2fabc8e25562407e854da5fea90",
+      "peaks": "/MihgGdRQDQpIRoVEQ0KCAYFBAMCAgEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/toggle-switch-snap.wav"
+    },
+    {
+      "id": "counter-tick-fast",
+      "name": "Digital Counter Tick",
+      "category": "ui",
+      "subcategory": "Tick",
+      "duration": 0.08,
+      "size": 7100,
+      "file": "counter-tick-fast.wav",
+      "sha256": "974976e9bd7ed822c8d283e65ee9f71b64709e0b69571b805f3e58d40bcd973d",
+      "peaks": "/ObNvKiZin5xZ1xUS0U+ODIuKSUhHxsZFhQSEQ8NDAsKCQgHBgYFBQQEAwMDAgICAgEBAQEBAQEAAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/counter-tick-fast.wav"
+    },
+    {
+      "id": "cash-register-ding",
+      "name": "Cash Register Ding",
+      "category": "ui",
+      "subcategory": "Cash",
+      "duration": 1.0,
+      "size": 88244,
+      "file": "cash-register-ding.wav",
+      "sha256": "0ab3ab601066551f960eef12e553af06cdd31ed0f67188d1bbcfd322b4d023b9",
+      "peaks": "3NLIwLaupp6XkIqDfXhybWhjX1pWUk5LR0RBPjs4NjMxLiwqKCYlIyEgHh0cGhkYFxYVFBMSERAPDw4NDQwMCw==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/cash-register-ding.wav"
+    },
+    {
+      "id": "digital-data-glitch",
+      "name": "Digital Data Glitch Static",
+      "category": "glitch",
+      "subcategory": "Glitch",
+      "duration": 0.6,
+      "size": 52964,
+      "file": "digital-data-glitch.wav",
+      "sha256": "87570dbd6f21f89c60776997621d69a32c6d9790e40a679bd33bfd6fc9d47512",
+      "peaks": "y8rLyMnGycrLwsnLx8vLy8rLysnKy8nIy8jLy8vKycvLycvLysvKycrIysvIy8vLysnLycfJyMjKysvKyMrLyQ==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/digital-data-glitch.wav"
+    },
+    {
+      "id": "tape-rewind-fast",
+      "name": "Tape Rewind Fast",
+      "category": "glitch",
+      "subcategory": "Tape",
+      "duration": 0.9,
+      "size": 79424,
+      "file": "tape-rewind-fast.wav",
+      "sha256": "ff4ca824d3d827a956dbca430afb7fe4e8411783d5fd1ed4fcdaa8f1e6ad4136",
+      "peaks": "y8vFy8vKy8vLysvIx8rLy8rLy8vKx8rLy8vLy8vLy8vLycvLysrKy8rLy8nLy8jKyMvLy8vLy8vLysrKy8vKyw==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/tape-rewind-fast.wav"
+    },
+    {
+      "id": "cyber-terminal-beep",
+      "name": "Cyber Terminal Beep",
+      "category": "glitch",
+      "subcategory": "Terminal",
+      "duration": 0.3,
+      "size": 26504,
+      "file": "cyber-terminal-beep.wav",
+      "sha256": "8cda730af9cd4f805cd4531764c3cf09a8af060771685961c4ae218614b9c82e",
+      "peaks": "x8XHx8bKvMrIxsrLxsvJysrJyMnLyMvJycvIy8bJysvKysTLy8TLx8nKy8fDx8XHysrIxMrHy8fHysrLxMXIyg==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/cyber-terminal-beep.wav"
+    },
+    {
+      "id": "radio-static-tuning",
+      "name": "Radio Static Tuning",
+      "category": "glitch",
+      "subcategory": "Static",
+      "duration": 1.2,
+      "size": 105884,
+      "file": "radio-static-tuning.wav",
+      "sha256": "c1db519609aeb23b45318f2e1114d7cfdec203b89a4a5829a49d8b2b8ec074bc",
+      "peaks": "y8vLy8vLy8vLy8rLy8vKy8fLy8vKy8rLycvKy8vHy8rLy8fLy8vLy8vLysrLysvLysjKysnLy8vJy8vJy8vLyQ==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/radio-static-tuning.wav"
+    },
+    {
+      "id": "hologram-malfunction",
+      "name": "Hologram Malfunction Burst",
+      "category": "glitch",
+      "subcategory": "Hologram",
+      "duration": 0.8,
+      "size": 70604,
+      "file": "hologram-malfunction.wav",
+      "sha256": "7bb76c584e95baa1e51fcb9665534daf63ef518fc1947010924fcc42271f50a0",
+      "peaks": "y8vLycvKysrKysjFy8rLysvLycvJx8vKysnKxcvLy8vKycvJy8vLycvLy8vJyMvKysrLysvLyMvLy8vLxcrKyw==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/hologram-malfunction.wav"
+    },
+    {
+      "id": "fast-keyboard-typing",
+      "name": "Fast Keyboard Typing",
+      "category": "foley",
+      "subcategory": "Keyboard",
+      "duration": 1.5,
+      "size": 132344,
+      "file": "fast-keyboard-typing.wav",
+      "sha256": "a262f22ba72b289f710917d9604b1d34f74b74010f93688cf6fb0e21f61c09de",
+      "peaks": "WFNYV1hXWFdYWFhXVVdXWFhYIVcRWBFYEVgRWBFYTlhSV1hXWFdYV1hYWFdYV1dVWBFXEVgRWBFXEVgRWFdXVg==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/fast-keyboard-typing.wav"
+    },
+    {
+      "id": "paper-sheet-crumple",
+      "name": "Paper Sheet Crumple",
+      "category": "foley",
+      "subcategory": "Paper",
+      "duration": 0.7,
+      "size": 61782,
+      "file": "paper-sheet-crumple.wav",
+      "sha256": "95342226110051b255b3b5f39b205b36cc1887274e1e1949978cc0b604c8819c",
+      "peaks": "YmITE2FiExNjYBMTYGITE15hExNiYxMTY2FeExNjYxMTYWITE2BiExNjYhMTY2MTE2FjNhNYY2MTE2NgExNiYQ==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/paper-sheet-crumple.wav"
+    },
+    {
+      "id": "camera-shutter-click",
+      "name": "Camera Shutter Click",
+      "category": "foley",
+      "subcategory": "Camera",
+      "duration": 0.25,
+      "size": 22094,
+      "file": "camera-shutter-click.wav",
+      "sha256": "1f58f482f13ad0a0b93479a59a7500f9507f57b3a5e868271983a039f44e503d",
+      "peaks": "/LeHYkg0JhwUDwsIBgQDAgEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/camera-shutter-click.wav"
+    },
+    {
+      "id": "dice-roll-shaker",
+      "name": "Dice Roll Shaker",
+      "category": "foley",
+      "subcategory": "Dice",
+      "duration": 0.9,
+      "size": 79424,
+      "file": "dice-roll-shaker.wav",
+      "sha256": "171b7dcccf7940fc72847dae8563d16334ee990afb3faf00e0559ba7824ee259",
+      "peaks": "YhQTY2ATYmETYGIUYWMUE2NeE2RjFGBkFGJjFBNkExRjYxRkYxRjZBNTYxQTZGEUZGITY2QTX2QTFGRjFGNaEw==",
+      "download_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/sfx/dice-roll-shaker.wav"
     }
   ]
 }
