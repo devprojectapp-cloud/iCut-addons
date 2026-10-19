@@ -53,7 +53,9 @@
           "sha256": "ad73ac88e563b218197cc75e5cc77efd3e285f2d47454a34a6ccd658d982a9b3",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/yt-subscribe-glow.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/yt-subscribe-glow.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/yt-subscribe-glow.png"
     },
     {
       "id": "yt-like-share",
@@ -82,7 +84,9 @@
           "sha256": "09bb8f453cc3a24691394ce2b1aa95b000e34127bc3411fbae786a8ee4f0e9c9",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/yt-like-share.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/yt-like-share.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/yt-like-share.png"
     },
     {
       "id": "ig-follow-card",
@@ -110,7 +114,9 @@
           "sha256": "6d5b53e70a5c047d16e8ca9f34dbbeab6736cecba58985a4d726868b4321b276",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/ig-follow-card.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/ig-follow-card.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/ig-follow-card.png"
     },
     {
       "id": "tiktok-double-tap",
@@ -139,7 +145,9 @@
           "sha256": "ecf10a9fd64576c6074b4eb5797bd0d7ccd6c061e70a0a196eada1b8cf695f7d",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/tiktok-double-tap.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/tiktok-double-tap.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/tiktok-double-tap.png"
     },
     {
       "id": "x-repost-pill",
@@ -167,7 +175,9 @@
           "sha256": "3ab4c0a885139047950cb269798ff3c2e69415dd27f8da6c2ad24ee354ba3cc3",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/x-repost-pill.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/x-repost-pill.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/x-repost-pill.png"
     },
     {
       "id": "twitch-follow-alert",
@@ -196,7 +206,9 @@
           "sha256": "e3cd729b40bc7e0d69ea383c7794669f70279b1922547daf10329004a0c38cc2",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/twitch-follow-alert.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/twitch-follow-alert.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/twitch-follow-alert.png"
     },
     {
       "id": "discord-join-badge",
@@ -224,7 +236,9 @@
           "sha256": "79ae5a040087200ba582ccb90935bce62cecaeb412ba983b369feb0e464dab94",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/discord-join-badge.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/discord-join-badge.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/discord-join-badge.png"
     },
     {
       "id": "minimal-clean-bar",
@@ -253,7 +267,9 @@
           "sha256": "1ae602235dda6aa1123177eb3bb5b67cfa96aeb8c3990f95fa0257a8f6cbadd5",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/minimal-clean-bar.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/minimal-clean-bar.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/minimal-clean-bar.png"
     },
     {
       "id": "neon-cyber-lower-third",
@@ -282,7 +298,9 @@
           "sha256": "87feaee906cdab537dd36d6b1e11679bc132c05f8ef6bdedeed5461ccbbcd0d7",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/neon-cyber-lower-third.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/neon-cyber-lower-third.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/neon-cyber-lower-third.png"
     },
     {
       "id": "breaking-news-ticker",
@@ -311,7 +329,9 @@
           "sha256": "3ea1274f2dcebc8904e179429cee9a10678786a18bab58c903310bc7cc6fae31",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/breaking-news-ticker.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/breaking-news-ticker.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/breaking-news-ticker.png"
     },
     {
       "id": "corporate-gold-accent",
@@ -340,7 +360,9 @@
           "sha256": "81a258d8f71a2ac46836d2b873fb3bc4bdecf618ad36a9da2ac6520cf66afe66",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/corporate-gold-accent.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/corporate-gold-accent.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/corporate-gold-accent.png"
     },
     {
       "id": "vlog-glass-box",
@@ -369,7 +391,9 @@
           "sha256": "745709a8d19c9a2c0ca2581c346c612e053858471e8ab13984fd65090723cd79",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/vlog-glass-box.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/vlog-glass-box.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/vlog-glass-box.png"
     },
     {
       "id": "streamer-tag-neon",
@@ -398,7 +422,9 @@
           "sha256": "956ff4c7f8701b93e31b825b2b96ea9f62c556c4f5b38e9f5ff09f358893f44b",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/streamer-tag-neon.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/streamer-tag-neon.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/streamer-tag-neon.png"
     },
     {
       "id": "dual-accent-ribbon",
@@ -427,7 +453,9 @@
           "sha256": "acb00f4de37987552591faafa63112f55b3ebca3309bbc1a6dbdc21b93aae5a6",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/dual-accent-ribbon.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/dual-accent-ribbon.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/dual-accent-ribbon.png"
     },
     {
       "id": "kinetic-stomp-intro",
@@ -456,7 +484,9 @@
           "sha256": "74e28a8fc20c899c93e0b3ba326cadf485292b5970015ca759b0d7e068f5b38e",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/kinetic-stomp-intro.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/kinetic-stomp-intro.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/kinetic-stomp-intro.png"
     },
     {
       "id": "neon-cyber-title",
@@ -485,7 +515,9 @@
           "sha256": "6a6051f93263ba8060a36f011b9476a2ada5462eaeb7452478ea16deb823143e",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/neon-cyber-title.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/neon-cyber-title.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/neon-cyber-title.png"
     },
     {
       "id": "cinematic-gold-widescreen",
@@ -514,7 +546,9 @@
           "sha256": "5b770a5e29a2a6b6eecf73f20258aa0acda9c2c2d0b475f0b85658014f7daa13",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/cinematic-gold-widescreen.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/cinematic-gold-widescreen.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/cinematic-gold-widescreen.png"
     },
     {
       "id": "modern-fade-heading",
@@ -543,7 +577,9 @@
           "sha256": "5d2dbe35d8eebf46e5ec1abe58fa7663fa0d01d03eae77a9a8abd71d42ed1801",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/modern-fade-heading.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/modern-fade-heading.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/modern-fade-heading.png"
     },
     {
       "id": "retro-synthwave-title",
@@ -572,7 +608,9 @@
           "sha256": "24d5d5384b55ced16f2d638365f856e61161e03dc3fd439d54776f30ddf20c34",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/retro-synthwave-title.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/retro-synthwave-title.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/retro-synthwave-title.png"
     },
     {
       "id": "clean-editorial-serif",
@@ -601,7 +639,9 @@
           "sha256": "447069908a9cf466de9ff0f66b3bce9299cabcb68db9f9a2dcdbc9379c5af525",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/clean-editorial-serif.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/clean-editorial-serif.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/clean-editorial-serif.png"
     },
     {
       "id": "dynamic-glitch-split",
@@ -630,7 +670,9 @@
           "sha256": "7b0d7a284950518f2bb93ef91fcd69ed407eb347345ffe1d128a3f926b5879e2",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/dynamic-glitch-split.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/dynamic-glitch-split.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/dynamic-glitch-split.png"
     },
     {
       "id": "confetti-celebration-burst",
@@ -659,7 +701,9 @@
           "sha256": "6f1cab539f481d4806d5a22dcc99a30818e2f2cf0d0f92482c454ccb2443f952",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/confetti-celebration-burst.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/confetti-celebration-burst.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/confetti-celebration-burst.png"
     },
     {
       "id": "fire-flame-combustion",
@@ -688,7 +732,9 @@
           "sha256": "74ac580d7551051d87639030fbb34dc49dbf4bcb122290b3cc5566a6199ebf90",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/fire-flame-combustion.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/fire-flame-combustion.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/fire-flame-combustion.png"
     },
     {
       "id": "heart-pop-explosion",
@@ -717,7 +763,9 @@
           "sha256": "882e2b47fd2984ab278db6434841d682e50e0737b5e22db95b7617588f701935",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/heart-pop-explosion.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/heart-pop-explosion.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/heart-pop-explosion.png"
     },
     {
       "id": "100-points-gold-stamp",
@@ -746,7 +794,9 @@
           "sha256": "59b897774cf528bbc8d58d47c27eba77ca0efb13150183868aa797d1b5188452",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/100-points-gold-stamp.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/100-points-gold-stamp.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/100-points-gold-stamp.png"
     },
     {
       "id": "laughing-tears-emoji",
@@ -775,7 +825,9 @@
           "sha256": "621b0ea8bd9060661481df6ac65be6154cbb640da1124db9dc9bf18dfa673d1c",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/laughing-tears-emoji.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/laughing-tears-emoji.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/laughing-tears-emoji.png"
     },
     {
       "id": "thumbs-up-sparkle",
@@ -804,7 +856,9 @@
           "sha256": "6cb9bdf59e2e0b46edcf199b0c7c52df80e5204e472c01fc518e811910e2a345",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/thumbs-up-sparkle.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/thumbs-up-sparkle.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/thumbs-up-sparkle.png"
     },
     {
       "id": "star-burst-rating",
@@ -833,7 +887,9 @@
           "sha256": "c427211f11c1b21a9bfe698112785fa1c9e17116345038df637632ea09a6d48f",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/star-burst-rating.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/star-burst-rating.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/star-burst-rating.png"
     },
     {
       "id": "neon-arrow-pointer",
@@ -862,7 +918,9 @@
           "sha256": "111a0ea39c95848685373dd9d7df33fda604ef9ba690841be9bbb705b06f080e",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/neon-arrow-pointer.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/neon-arrow-pointer.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/neon-arrow-pointer.png"
     },
     {
       "id": "sale-50-percent-pulse",
@@ -891,7 +949,9 @@
           "sha256": "be129e0441425c0d33444307ad016b9677dea1f5157283a88fc140e5a64820be",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/sale-50-percent-pulse.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/sale-50-percent-pulse.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/sale-50-percent-pulse.png"
     },
     {
       "id": "new-arrival-badge",
@@ -920,7 +980,9 @@
           "sha256": "e3eb68ec406dfd1984f2e2223034786e52bc2757d367227531ba6a217736b31f",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/new-arrival-badge.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/new-arrival-badge.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/new-arrival-badge.png"
     },
     {
       "id": "warning-hazard-flash",
@@ -949,7 +1011,9 @@
           "sha256": "04207991f41ca74a454342c0769863b1b6ed20d3f60ecd961b7ca04bb20d454d",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/warning-hazard-flash.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/warning-hazard-flash.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/warning-hazard-flash.png"
     },
     {
       "id": "verified-checkmark-badge",
@@ -978,7 +1042,9 @@
           "sha256": "9ad9b4022f6304948ac4bcde80b9b464996e9ef0fd674ee4bdc03ea9969dbdaf",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/verified-checkmark-badge.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/verified-checkmark-badge.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/verified-checkmark-badge.png"
     },
     {
       "id": "countdown-timer-circle",
@@ -1007,7 +1073,9 @@
           "sha256": "8e3e58e8ffd7c8d44d0f62a0427bbf06f3b9774b414a40a817972806dd89aad3",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/countdown-timer-circle.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/countdown-timer-circle.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/countdown-timer-circle.png"
     },
     {
       "id": "trending-fire-pill",
@@ -1036,7 +1104,9 @@
           "sha256": "a729ec2ec1afbc7760da21c0885a9a28ecb8c5f4caf9a432f10d5c7aa65a4d73",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/trending-fire-pill.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/trending-fire-pill.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/trending-fire-pill.png"
     },
     {
       "id": "neon-laser-frame",
@@ -1065,7 +1135,9 @@
           "sha256": "847e4400f8289e29e45bee21be652e868d23f116e87548f8373f8750219853d1",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/neon-laser-frame.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/neon-laser-frame.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/neon-laser-frame.png"
     },
     {
       "id": "particle-ambient-drift",
@@ -1094,7 +1166,9 @@
           "sha256": "5407ea5937662c3ccec920dacaa2f84fd4a69806c4e33f46daca01eef3014bc5",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/particle-ambient-drift.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/particle-ambient-drift.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/particle-ambient-drift.png"
     },
     {
       "id": "film-viewfinder-hud",
@@ -1123,7 +1197,9 @@
           "sha256": "cd74a31414787148cc880c682289aaeaa46b3f520f551571fd2237773e82e601",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/film-viewfinder-hud.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/film-viewfinder-hud.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/film-viewfinder-hud.png"
     },
     {
       "id": "audio-spectrum-waves",
@@ -1152,7 +1228,9 @@
           "sha256": "f8dc2f557529dfa424efbd5ee3f6f551a59c4527d9c343330b49cdc6c56666f4",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/audio-spectrum-waves.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/audio-spectrum-waves.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/audio-spectrum-waves.png"
     },
     {
       "id": "cyber-scanline-grid",
@@ -1181,7 +1259,9 @@
           "sha256": "2329db8315d169cc2f1c7e572ef12f25d16ecedd26f517ece12010e79b109ac2",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/cyber-scanline-grid.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/cyber-scanline-grid.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/cyber-scanline-grid.png"
     },
     {
       "id": "starfield-warp-streaks",
@@ -1210,7 +1290,9 @@
           "sha256": "a451bb96624c45961757212d2e9525b34152e4cd30596bc371fa84b605ca2cb1",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/starfield-warp-streaks.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/starfield-warp-streaks.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/starfield-warp-streaks.png"
     },
     {
       "id": "bokeh-floating-lights",
@@ -1239,7 +1321,9 @@
           "sha256": "30f62a61a7c0f7e7ae55daefa35a8ef615d6b3edfdbaa16a3332e7ec8de23df5",
           "url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/assets/bokeh-floating-lights.json"
         }
-      ]
+      ],
+      "thumb_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/bokeh-floating-lights.png",
+      "poster_url": "https://raw.githubusercontent.com/devprojectapp-cloud/iCut-addons/main/thumbnails/bokeh-floating-lights.png"
     }
   ]
 }
